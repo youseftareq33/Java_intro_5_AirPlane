@@ -1,4 +1,4 @@
-package Phasel22;
+package Classes;
 
 import java.util.Scanner;
 

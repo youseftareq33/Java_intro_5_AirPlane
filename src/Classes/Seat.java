@@ -1,4 +1,4 @@
-package Phasel22;
+package Classes;
 
 public class Seat {
 	private int seatnumber; //defined the seat number
