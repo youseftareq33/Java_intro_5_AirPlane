@@ -8,4 +8,4 @@ This project can do multiple operation:
 
 3. Delete all reserved seats.
 
-4. Print out flight seats map.
+4. Print out flight seats map
