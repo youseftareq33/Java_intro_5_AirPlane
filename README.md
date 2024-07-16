@@ -1,4 +1,4 @@
-# AirPlaneSeatRentSystem
+# Flight Reservation
 
 This project can do multiple operation:
 
